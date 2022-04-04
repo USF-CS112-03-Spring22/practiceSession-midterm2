@@ -1,5 +1,3 @@
-import solution.MenuItem;
-
 import java.io.PrintWriter;
 
 public class Restaurant {
